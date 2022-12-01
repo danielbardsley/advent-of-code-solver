@@ -1,0 +1,8 @@
+requests
+praw
+bs4
+parse
+rich
+sympy
+toolz
+numpy
